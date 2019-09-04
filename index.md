@@ -2,9 +2,9 @@
 
 ###### Linux脚本实例重装
 
-Ubuntu 18.04 64位 更多参考<https://moeclub.org/>
+Debian10 64位 更多参考<https://moeclub.org/>
 
-bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -u 18.04  -v 64 -a
+bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 10  -v 64 -a
 
 账号密码：
 
