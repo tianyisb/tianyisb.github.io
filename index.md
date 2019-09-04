@@ -4,7 +4,11 @@
 
 Debian10 64位 更多参考<https://moeclub.org/>
 
-bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 10  -v 64 -a
+<p>
+   bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 10 -v 64 -a
+</p>
+
+
 
 账号密码：
 
