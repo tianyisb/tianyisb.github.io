@@ -20,6 +20,8 @@ Debian/Ubuntu：apt-get install curl -y
 
 bash <(curl -s -L https://git.io/v2ray.sh)
 
+官方脚本    bash <(curl -L -s https://install.direct/go.sh)
+
 相关参数参考：<https://github.com/233boy/v2ray/tree/master>
 
 ###### 客户端下载
