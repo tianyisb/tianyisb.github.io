@@ -22,5 +22,12 @@ bash <(curl -s -L https://git.io/v2ray.sh)
 
 相关参数参考：<https://github.com/233boy/v2ray/tree/master>
 
-##### <a href="download.md">客户端下载</a>
+##### 客户端下载
 
+
+
+Mac    <https://github.com/yanue/V2rayU/releases>
+
+Android <https://github.com/2dust/v2rayNG/releases>   
+
+Windows  <https://github.com/2dust/v2rayN/releases>
