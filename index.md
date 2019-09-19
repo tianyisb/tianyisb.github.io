@@ -37,3 +37,7 @@ Mac    <https://github.com/yanue/V2rayU/releases>
 Android <https://github.com/2dust/v2rayNG/releases>   
 
 Windows  <https://github.com/2dust/v2rayN/releases>
+
+备用：
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/brook.sh && chmod +x brook.sh && bash brook.sh
