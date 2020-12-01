@@ -1,8 +1,10 @@
-###### Linux脚本实例重装
+###### Linux脚本重装
 
 参考1：<https://moeclub.org/>
 
 参考2：<https://blog.hicasper.com/post/135.html#comment-123>
+
+参考3：<https://www.cxthhhhh.com/network-reinstall-system-modify>
 
 
 
