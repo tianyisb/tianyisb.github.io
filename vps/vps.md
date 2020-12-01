@@ -30,9 +30,12 @@ Windows： <https://github.com/2dust/v2rayN/releases>
 
 [拯救被墙的IP：V2Ray+CDN 解决方案 [ColinOL\]](https://colinol.com/wiki/linux/linux-install-v2ray-cdn)
 
+CloudFlare Partner 推荐
+
 梦牛：https://www.mnn.tw/
 
 奔牛：http://cdn.bnxb.com/
 
 萌精灵CDN：https://cdn.moeelf.com/
 
+挖站否：https://cdn.wzfou.com/
