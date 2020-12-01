@@ -26,3 +26,7 @@ Windows： <https://github.com/2dust/v2rayN/releases>
 
 
 
+###### cdn方案参考
+
+[拯救被墙的IP：V2Ray+CDN 解决方案 [ColinOL\]](https://colinol.com/wiki/linux/linux-install-v2ray-cdn)
+
