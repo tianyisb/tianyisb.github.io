@@ -38,5 +38,7 @@ Android <https://github.com/2dust/v2rayNG/releases>
 
 Windows  <https://github.com/2dust/v2rayN/releases>
 
-<a herf="doc/readme.md">readme</a>
+[read](/doc/readme.md)
+
+
 
