@@ -38,4 +38,4 @@ Android <https://github.com/2dust/v2rayNG/releases>
 
 Windows  <https://github.com/2dust/v2rayN/releases>
 
-[跳转]（/README.md）
+[跳转]（doc/README.md）
