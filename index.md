@@ -38,9 +38,3 @@ Android <https://github.com/2dust/v2rayNG/releases>
 
 Windows  <https://github.com/2dust/v2rayN/releases>
 
-备用：
-
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/brook.sh && chmod +x brook.sh && bash brook.sh
-
-brook客户端：<https://github.com/txthinking/brook/releases>
-
