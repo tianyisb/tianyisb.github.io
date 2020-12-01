@@ -38,3 +38,5 @@ Android <https://github.com/2dust/v2rayNG/releases>
 
 Windows  <https://github.com/2dust/v2rayN/releases>
 
+[readme](#readme)
+
